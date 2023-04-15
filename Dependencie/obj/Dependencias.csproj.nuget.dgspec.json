@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\DotNetDependencies\\DotNetDependencies.csproj": {}
+    "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\DotNetDependencies\\DotNetDependencies.csproj": {
+    "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\DotNetDependencies\\DotNetDependencies.csproj",
-        "projectName": "DotNetDependencies",
-        "projectPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\DotNetDependencies\\DotNetDependencies.csproj",
+        "projectUniqueName": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj",
+        "projectName": "Dependencias",
+        "projectPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj",
         "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\DotNetDependencies\\obj\\",
+        "outputPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"

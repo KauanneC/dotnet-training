@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "DotNetDependencies/1.0.0": {
+      "Dependencias/1.0.0": {
         "dependencies": {
           "Humanizer": "2.7.9"
         },
         "runtime": {
-          "DotNetDependencies.dll": {}
+          "Dependencias.dll": {}
         }
       },
       "Humanizer/2.7.9": {
@@ -491,7 +491,7 @@
     }
   },
   "libraries": {
-    "DotNetDependencies/1.0.0": {
+    "Dependencias/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
