@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Pacote Humanizer
 using Humanizer;
 
 Console.WriteLine("Quantities: ");
