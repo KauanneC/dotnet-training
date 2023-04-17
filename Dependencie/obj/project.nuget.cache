@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ElBHKFygYAmvB+M7K9ZJCoRf9WdDbLI69lAtiS6VaPCkGqbbZaynYs1JbdeZyThqBFX45vPClpFOX8s9NL67A==",
+  "dgSpecHash": "tOr6xbevPfNV7u3aQxfm9pzQFBGpG3hyYUse3dsR2DEnmmGHA1+l4HbvYywBCcvxjxKYJiY9wLF6fpQ8HBWraQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj",
+  "projectFilePath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencie\\Dependencias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kauan\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\kauan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

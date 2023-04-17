@@ -1357,11 +1357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj",
+      "projectUniqueName": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencie\\Dependencias.csproj",
       "projectName": "Dependencias",
-      "projectPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\Dependencias.csproj",
+      "projectPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencie\\Dependencias.csproj",
       "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencias\\obj\\",
+      "outputPath": "C:\\Users\\kauan\\OneDrive\\Área de Trabalho\\mouratech\\Jobson\\treinamento_microsoft\\Dependencie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"
