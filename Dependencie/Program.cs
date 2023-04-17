@@ -1,5 +1,4 @@
-﻿//Pacote Humanizer
-using Humanizer;
+﻿using Humanizer;
 
 Console.WriteLine("Quantities: ");
 HumanizeQuantities();
